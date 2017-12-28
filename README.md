@@ -1,2 +1,4 @@
 # newtogit
-testing my skills on git
+testing my skills on git.
+
+just pulled from webpage to local machine
